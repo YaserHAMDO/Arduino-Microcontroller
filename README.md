@@ -1,6 +1,10 @@
 # Techniques used
 
+Protues 8
+
 ![download](https://user-images.githubusercontent.com/85714356/122922523-60dda800-d36c-11eb-8b05-c3a838cda3c5.jpg)
+
+Android Studio
 
 ![download](https://user-images.githubusercontent.com/85714356/122922840-b7e37d00-d36c-11eb-98db-c2b3754cf37b.jpg)
 
